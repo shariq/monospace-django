@@ -10,7 +10,7 @@ customer. Customers can also update their credit card.
 ## Installation steps
 
 You will need a publishable token and a secret token. Add them both to
-monospace/setting.py
+monospace/settings.py
 
 Install virtualenv if you don't already have it:
 
